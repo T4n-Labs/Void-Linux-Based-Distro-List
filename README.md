@@ -37,7 +37,12 @@
 - **Desktop:** AwesomeWM, BSPWM, DWM, Fluxbox, GNOME, HerbstluftWM, Hyprland, i3WM, JWM, Labwc, LeftWM, LXQt, MangoWC, Niri, Openbox, KDE Plasma, Qtile, River, Sway, Wayfire, WMD77, XFCE, Dank Material Shell, Noctalia Shell, Wayle GTK Shell, X11, Wayland
 - **Libc:** glibc
 
-### 8. T4n OS
+### 8. LazyLinux
+- **Fokus:** Siap Pakai & Aplikasi Lengkap (Out-of-the-box)
+- **Desktop:** XFCE
+- **Libc:** glibc
+
+### 9. T4n OS
 - **Fokus:** Kemudahan Penggunaan
 - **Desktop:** Base, XFCE
 - **Libc:** glibc
